@@ -5,7 +5,7 @@ A tiny sandbox repo for practicing the GitHub pull request workflow with Claude 
 ## What this is
 
 This repo exists so you can see the full loop: make a change, push a branch, open a PR,
-and merge it. Its recieved a first pass README below.
+and merge it.
 
 ## Getting started
 
